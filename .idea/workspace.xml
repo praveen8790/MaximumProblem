@@ -15,7 +15,6 @@
       <change beforePath="$PROJECT_DIR$/.gradle/7.0/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.0/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/Maximum.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Maximum.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/test/MaximumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/MaximumTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/MaximumTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/MaximumTest.html" afterDir="false" />
@@ -23,7 +22,6 @@
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-MaximumTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-MaximumTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Maximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Maximum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/MaximumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MaximumTest.java" afterDir="false" />
     </list>
@@ -70,7 +68,7 @@
     </option>
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="rf1" />
+    <option name="BRANCH" value="rf2" />
   </component>
   <component name="Git.Settings">
     <excluded-from-favorite>
@@ -240,8 +238,8 @@
       <list>
         <item itemvalue="Gradle.MaximumTest.test1" />
         <item itemvalue="Gradle.MaximumTest.string1" />
+        <item itemvalue="Gradle.MaximumTest.integer1" />
         <item itemvalue="Gradle.MaximumTest.float1" />
-        <item itemvalue="Gradle.MaximumTest" />
         <item itemvalue="Gradle.MaximumTest" />
       </list>
     </recent_temporary>
@@ -292,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622742179786</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="REFACTORED to implement generic class and extended comparable and initialized  3 instance variables">
+      <created>1622744820907</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622744820907</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,24 +1,16 @@
 public class Maximum<T extends Comparable<T>> {
-    private T a;
-    private T b;
-    private T c;
+    T a;
+    T b;
+    T c;
 
-    public Maximum(T a, T b, T c) {
+    public Maximum(T a,T b, T c) {
         this.a = a;
         this.b = b;
         this.c = c;
     }
-
-    public T getA() {
-        return a;
+    public T max(){
+       return Maximum.testMaximum(a,b,c);
     }
-    public T getB() {
-        return b;
-    }
-    public T getC() {
-        return c;
-    }
-
     public static <T extends Comparable<T>> T testMaximum(T a, T b, T c){
 
         if(b.compareTo(a)>0 && b.compareTo(c)>0)
