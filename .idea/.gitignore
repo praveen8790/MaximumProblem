@@ -6,3 +6,9 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+build/reports/tests/test/classes/MaximumTest.html
+build/reports/tests/test/packages/default-package.html
+build/reports/tests/test/index.html
+build/reports/tests/test/js/report.js
+build/reports/tests/test/css/style.css
+build/reports/tests/test/css/base-style.css

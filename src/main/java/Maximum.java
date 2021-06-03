@@ -22,7 +22,16 @@ public class Maximum<T extends Comparable<T>> {
         /*return Arrays.stream(args).max(Comparator.naturalOrder()).get();*/
         return Arrays.stream(args).sorted().toList().get(args.length - 1);
     }
+    public static <T> void printMax(T max) {
+        System.out.println("Maximum is " + max);
+    }
 
 
+    public static void main(String[] args) {
+        Maximum.printMax(Maximum.testMaximum(8,10,5));
+        Maximum.printMax(Maximum.testMaximum(8,10,5,17,15,18));
+        Maximum.printMax(Maximum.testMaximum(8.7f,10.5f,5.2f));
+        Maximum.printMax(Maximum.testMaximum("how are you","hii","bye"));
+    }
 
 }
