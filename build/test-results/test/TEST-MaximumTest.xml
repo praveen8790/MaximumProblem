@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MaximumTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-06-03T17:42:07" hostname="PRAVEEN-TQ9EU8H" time="0.003">
+<testsuite name="MaximumTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-06-03T18:25:35" hostname="PRAVEEN-TQ9EU8H" time="0.004">
   <properties/>
   <testcase name="string1" classname="MaximumTest" time="0.002"/>
   <testcase name="string2" classname="MaximumTest" time="0.0"/>
