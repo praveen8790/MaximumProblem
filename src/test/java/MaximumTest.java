@@ -37,5 +37,24 @@ public class MaximumTest {
         Float expected =6.7f;
         Assert.assertEquals(expected, max.findMaximum(5.5f,1.6f,6.7f));
     }
+    @Test
+    public void string1() {
+        Maximum max = new Maximum();
+        String expected ="how are you";
+        Assert.assertEquals(expected, max.findMaximum("how are you","hii","bye"));
+    }
+    @Test
+    public void string2() {
+        Maximum max = new Maximum();
+        String expected ="how are you";
+        Assert.assertEquals(expected, max.findMaximum(" you","how are you","bye"));
+    }
+    @Test
+    public void string3() {
+        Maximum max = new Maximum();
+        String expected ="how are you";
+        Assert.assertEquals(expected, max.findMaximum("how are u","hii","how are you"));
+    }
+
 
 }
