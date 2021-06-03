@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="057ecda7-b836-4020-8a21-16b41db831ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/max.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IMaximum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Maximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Maximum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MaximumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MaximumTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,7 @@
     </option>
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="uc2" />
+    <option name="BRANCH" value="rf1" />
   </component>
   <component name="Git.Settings">
     <excluded-from-favorite>
@@ -71,7 +69,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="rf1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
