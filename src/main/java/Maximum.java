@@ -1,3 +1,8 @@
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.List;
+import java.util.stream.Collectors;
+
 public class Maximum<T extends Comparable<T>> {
     T a;
     T b;
@@ -8,17 +13,16 @@ public class Maximum<T extends Comparable<T>> {
         this.b = b;
         this.c = c;
     }
+
     public T max(){
        return Maximum.testMaximum(a,b,c);
     }
-    public static <T extends Comparable<T>> T testMaximum(T a, T b, T c){
 
-        if(b.compareTo(a)>0 && b.compareTo(c)>0)
-          return (T) b;
-        else if(c.compareTo(a)>0 && c.compareTo(b)>0)
-            return (T) c;
-        else
-            return (T) a;
+    public static <T extends Comparable<T>> T testMaximum(T ... args){
+        /*return Arrays.stream(args).max(Comparator.naturalOrder()).get();*/
+        return Arrays.stream(args).sorted().toList().get(args.length - 1);
     }
+
+
 
 }

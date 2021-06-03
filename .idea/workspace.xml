@@ -15,8 +15,8 @@
       <change beforePath="$PROJECT_DIR$/.gradle/7.0/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.0/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/Maximum.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Maximum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/MaximumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/MaximumTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/MaximumTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/MaximumTest.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
@@ -236,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.MaximumTest.test1" />
+        <item itemvalue="Gradle.MaximumTest" />
         <item itemvalue="Gradle.MaximumTest.string1" />
         <item itemvalue="Gradle.MaximumTest.integer1" />
+        <item itemvalue="Gradle.MaximumTest.test1" />
         <item itemvalue="Gradle.MaximumTest.float1" />
-        <item itemvalue="Gradle.MaximumTest" />
       </list>
     </recent_temporary>
   </component>
@@ -320,6 +320,7 @@
     <MESSAGE value="ADDED method to find maximum in Float" />
     <MESSAGE value="ADDED method to find maximum in String" />
     <MESSAGE value="REFACTORED to implement generic class and extended comparable and initialized  3 instance variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="REFACTORED to implement generic class and extended comparable and initialized  3 instance variables" />
+    <MESSAGE value="REFACTORED to implement generic class and extended comparable and initialized  3 instance variables and passed internally to testMaximum method" />
+    <option name="LAST_COMMIT_MESSAGE" value="REFACTORED to implement generic class and extended comparable and initialized  3 instance variables and passed internally to testMaximum method" />
   </component>
 </project>
