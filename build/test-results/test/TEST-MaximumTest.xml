@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MaximumTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-06-03T17:14:08" hostname="PRAVEEN-TQ9EU8H" time="0.004">
+<testsuite name="MaximumTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-06-03T17:28:08" hostname="PRAVEEN-TQ9EU8H" time="0.008">
   <properties/>
-  <testcase name="string1" classname="MaximumTest" time="0.002"/>
-  <testcase name="string2" classname="MaximumTest" time="0.0"/>
+  <testcase name="string1" classname="MaximumTest" time="0.003"/>
+  <testcase name="string2" classname="MaximumTest" time="0.001"/>
   <testcase name="string3" classname="MaximumTest" time="0.0"/>
   <testcase name="float1" classname="MaximumTest" time="0.0"/>
   <testcase name="float2" classname="MaximumTest" time="0.0"/>
-  <testcase name="float3" classname="MaximumTest" time="0.0"/>
+  <testcase name="float3" classname="MaximumTest" time="0.002"/>
   <testcase name="integer1" classname="MaximumTest" time="0.0"/>
   <testcase name="integer2" classname="MaximumTest" time="0.0"/>
   <testcase name="integer3" classname="MaximumTest" time="0.0"/>
