@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="057ecda7-b836-4020-8a21-16b41db831ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Maximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Maximum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MaximumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MaximumTest.java" afterDir="false" />
+    <list default="true" id="057ecda7-b836-4020-8a21-16b41db831ca" name="Default Changelist" comment="REFACTORED to implement generic class and extended comparable and initialized  3 instance variables">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,10 +68,18 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="rf1" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1tRedppvF3sYoKchqz8zNDS7xcW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -237,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622740534522</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="REFACTORED to implement generic class and extended comparable and initialized  3 instance variables">
+      <created>1622742179786</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622742179786</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,6 +273,7 @@
     <MESSAGE value="ADDED method to find maximum in integers" />
     <MESSAGE value="ADDED method to find maximum in Float" />
     <MESSAGE value="ADDED method to find maximum in String" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADDED method to find maximum in String" />
+    <MESSAGE value="REFACTORED to implement generic class and extended comparable and initialized  3 instance variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="REFACTORED to implement generic class and extended comparable and initialized  3 instance variables" />
   </component>
 </project>
